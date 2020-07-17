@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+
+    //MoviesPresenter
+    <string name="error_loading_movies">Error al cargar películas</string>
+    <string name="success_loading_movies">Películas cargadas con éxito</string>
+</resources>
